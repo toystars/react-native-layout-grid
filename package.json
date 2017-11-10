@@ -1,0 +1,13 @@
+{
+  "name": "react-native-layout-grid",
+  "version": "0.0.1",
+  "description": "Simple Grid Layout for react-native",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/toystars/react-native-layout-grid",
+    "type": "git"
+  },
+  "author": "Mustapha Baabtunde <toystars2008@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
