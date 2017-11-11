@@ -7,5 +7,6 @@ export default StyleSheet.create({
   },
   group: {
     flex: 1,
+    margin: 5,
   },
 });
